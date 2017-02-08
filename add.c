@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<conio.h>
-#include<dos.h>
 main();
 {
   int a;
@@ -10,5 +9,4 @@ main();
      printf("val of c=%d",c);
      getche();
   }
-  
   
